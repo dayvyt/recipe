@@ -4,6 +4,6 @@ line 2 changed remotely
  <ul>
   <li>breaded chicken </li>
   <li>marinara sauce </li>
-  <li>a fried cheese toping of parmesean and motzerela cheese</li>
+  <li>a fried cheese toping of **parmesean** and **motzerela** cheese</li>
  </ul>
 last line changed locally
