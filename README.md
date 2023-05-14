@@ -7,3 +7,5 @@ line 2 changed remotely
  <li>a fried cheese toping of <stong>parmesean</stong> and <strong>motzerela</strong> cheese</li>
  </ul>
 last line changed locally
+
+![Looks delicious](C:\Users\DTomlinson\recipe\recipe.jpg)
